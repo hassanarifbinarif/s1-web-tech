@@ -1,0 +1,41 @@
+nav {
+    font-size: 1.4rem;
+}
+.heading {
+    font-size: 2.5rem;
+    color: blue;
+}
+
+.pic1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.updates {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    max-width: 500px;
+}
+.card-img {
+    min-width: 100%;
+}
+
+.customer {
+    font-size: 1.2rem;
+    height: 150px;
+    background-color: silver;
+}
+
+.gallery {
+    margin-left: 10%;
+    margin-right: 10%;
+}
